@@ -27,5 +27,18 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.1"
-  }
+  },
+  "description": "<<<<<<< HEAD\r # my-react-app\r =======\r # React + Vite",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morales041986/my-react-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morales041986/my-react-app/issues"
+  },
+  "homepage": "https://github.com/morales041986/my-react-app#readme"
 }
